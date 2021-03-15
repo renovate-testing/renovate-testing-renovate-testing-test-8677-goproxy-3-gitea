@@ -2,9 +2,9 @@ module github.com/go-openapi/loads
 
 require (
 	github.com/go-openapi/analysis v0.19.16
-	github.com/go-openapi/spec v0.20.1
+	github.com/go-openapi/spec v0.20.3
 	github.com/go-openapi/strfmt v0.20.0
-	github.com/go-openapi/swag v0.19.13
+	github.com/go-openapi/swag v0.19.14
 	github.com/go-openapi/validate v0.20.1
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/stretchr/testify v1.6.1
