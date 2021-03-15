@@ -23,7 +23,7 @@ require (
 	github.com/siddontang/rdb v0.0.0-20150307021120-fc89ed2e418d // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
 	github.com/syndtr/goleveldb v1.0.0 // indirect
-	github.com/unknwon/com v0.0.0-20190804042917-757f69c95f3e
+	github.com/unknwon/com v1.0.1
 	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80 // indirect
 	golang.org/x/sys v0.0.0-20190730183949-1393eb018365 // indirect
 	google.golang.org/appengine v1.6.1 // indirect

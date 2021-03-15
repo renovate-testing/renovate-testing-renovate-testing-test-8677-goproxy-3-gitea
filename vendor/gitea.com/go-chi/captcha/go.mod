@@ -6,5 +6,5 @@ require (
 	gitea.com/go-chi/cache v0.0.0-20210110083709-82c4c9ce2d5e
 	github.com/go-chi/chi v1.5.1
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
-	github.com/unknwon/com v0.0.0-20190804042917-757f69c95f3e
+	github.com/unknwon/com v1.0.1
 )
