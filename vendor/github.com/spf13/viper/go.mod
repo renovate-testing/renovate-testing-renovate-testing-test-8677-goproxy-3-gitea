@@ -3,7 +3,7 @@ module github.com/spf13/viper
 go 1.12
 
 require (
-	github.com/bketelsen/crypt v0.0.3-0.20200106085610-5cbc8cc4026c
+	github.com/bketelsen/crypt v0.0.3
 	github.com/coreos/bbolt v1.3.2 // indirect
 	github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
@@ -35,6 +35,7 @@ require (
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.10.0 // indirect
+	golang.org/x/text v0.3.5 // indirect
 	gopkg.in/ini.v1 v1.51.0
 	gopkg.in/yaml.v2 v2.2.4
 )
