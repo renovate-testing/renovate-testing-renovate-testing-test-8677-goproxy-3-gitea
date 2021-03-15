@@ -16,7 +16,7 @@ require (
 	github.com/pelletier/go-toml v1.8.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/siddontang/go v0.0.0-20180604090527-bdc77568d726 // indirect
-	github.com/siddontang/ledisdb v0.0.0-20190202134119-8ceb77e66a92
+	github.com/siddontang/ledisdb d35789ec47e6
 	github.com/siddontang/rdb v0.0.0-20150307021120-fc89ed2e418d // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
 	github.com/syndtr/goleveldb v1.0.0 // indirect
