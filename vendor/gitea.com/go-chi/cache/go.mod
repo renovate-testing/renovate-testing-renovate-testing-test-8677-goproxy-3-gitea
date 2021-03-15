@@ -4,7 +4,7 @@ go 1.11
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/bradfitz/gomemcache v0.0.0-20190329173943-551aad21a668
+	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/cupcake/rdb v0.0.0-20161107195141-43ba34106c76 // indirect
 	github.com/edsrzf/mmap-go v1.0.0 // indirect
 	github.com/go-redis/redis v6.15.2+incompatible

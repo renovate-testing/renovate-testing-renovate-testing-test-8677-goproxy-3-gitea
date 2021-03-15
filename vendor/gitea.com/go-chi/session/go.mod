@@ -3,7 +3,7 @@ module gitea.com/go-chi/session
 go 1.11
 
 require (
-	github.com/bradfitz/gomemcache v0.0.0-20190329173943-551aad21a668
+	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/couchbase/go-couchbase v0.0.0-20201026062457-7b3be89bbd89
 	github.com/couchbase/gomemcached v0.1.1 // indirect
 	github.com/couchbase/goutils v0.0.0-20201030094643-5e82bb967e67 // indirect
