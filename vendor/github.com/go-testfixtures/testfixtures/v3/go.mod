@@ -1,7 +1,7 @@
 module github.com/go-testfixtures/testfixtures/v3
 
 require (
-	github.com/denisenkom/go-mssqldb v0.0.0-20191128021309-1d7a30a10f73
+	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/jackc/pgx/v4 v4.6.0
 	github.com/joho/godotenv v1.3.0

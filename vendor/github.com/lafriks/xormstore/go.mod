@@ -3,7 +3,7 @@ module github.com/lafriks/xormstore
 go 1.13
 
 require (
-	github.com/denisenkom/go-mssqldb v0.0.0-20200428022330-06a60b6afbbc
+	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/gorilla/context v1.1.1
