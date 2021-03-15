@@ -3,7 +3,7 @@ module github.com/blevesearch/bleve/v2
 go 1.13
 
 require (
-	github.com/RoaringBitmap/roaring v0.4.23
+	github.com/RoaringBitmap/roaring v0.5.5
 	github.com/blevesearch/bleve_index_api v1.0.0
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/scorch_segment_api/v2 v2.0.1
