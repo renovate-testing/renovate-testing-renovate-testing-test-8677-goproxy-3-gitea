@@ -17,7 +17,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/sergi/go-diff v1.1.0
-	github.com/xanzy/ssh-agent v0.2.1
+	github.com/xanzy/ssh-agent v0.3.0
 	golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073
 	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
 	golang.org/x/text v0.3.2
