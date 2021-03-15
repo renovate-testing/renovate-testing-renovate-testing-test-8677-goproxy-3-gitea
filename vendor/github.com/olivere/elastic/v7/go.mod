@@ -7,7 +7,7 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/google/go-cmp v0.5.2
-	github.com/mailru/easyjson v0.7.6
+	github.com/mailru/easyjson v0.7.7
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/smartystreets/assertions v1.1.1 // indirect
