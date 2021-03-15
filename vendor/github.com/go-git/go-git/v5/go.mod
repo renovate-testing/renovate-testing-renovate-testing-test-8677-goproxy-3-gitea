@@ -13,7 +13,7 @@ require (
 	github.com/imdario/mergo v0.3.9
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99
 	github.com/jessevdk/go-flags v1.4.0
-	github.com/kevinburke/ssh_config v0.0.0-20190725054713-01f96b0aa0cd
+	github.com/kevinburke/ssh_config v0.0.0-20201106050909-4977a11b4351
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/sergi/go-diff v1.1.0
