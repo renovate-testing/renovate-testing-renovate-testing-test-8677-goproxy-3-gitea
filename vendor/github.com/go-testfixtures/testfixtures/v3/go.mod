@@ -6,7 +6,7 @@ require (
 	github.com/jackc/pgx/v4 v4.6.0
 	github.com/joho/godotenv v1.3.0
 	github.com/lib/pq v1.3.0
-	github.com/mattn/go-sqlite3 v1.14.0
+	github.com/mattn/go-sqlite3 v1.14.6
 	github.com/spf13/pflag v1.0.5
 	google.golang.org/appengine v1.3.0 // indirect
 	gopkg.in/yaml.v2 v2.2.7
