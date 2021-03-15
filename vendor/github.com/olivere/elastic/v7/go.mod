@@ -14,5 +14,5 @@ require (
 	github.com/smartystreets/go-aws-auth v0.0.0-20180515143844-0c1422d1fdb9
 	github.com/smartystreets/gunit v1.4.2 // indirect
 	github.com/stretchr/testify v1.5.1 // indirect
-	go.opencensus.io v0.22.5
+	go.opencensus.io v0.23.0
 )
