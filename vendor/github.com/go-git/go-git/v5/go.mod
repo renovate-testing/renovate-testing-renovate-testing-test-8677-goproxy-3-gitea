@@ -5,7 +5,7 @@ require (
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/emirpasic/gods v1.12.0
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
-	github.com/gliderlabs/ssh v0.2.2
+	github.com/gliderlabs/ssh v0.3.2
 	github.com/go-git/gcfg v1.5.0
 	github.com/go-git/go-billy/v5 v5.0.0
 	github.com/go-git/go-git-fixtures/v4 v4.0.2-0.20200613231340-f56387b50c12
