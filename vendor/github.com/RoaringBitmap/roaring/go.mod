@@ -3,7 +3,7 @@ module github.com/RoaringBitmap/roaring
 go 1.14
 
 require (
-	github.com/glycerine/go-unsnap-stream v0.0.0-20181221182339-f9677308dec2
+	github.com/glycerine/go-unsnap-stream v0.0.0-20210130063903-47dfef350d96
 	github.com/glycerine/goconvey v0.0.0-20190410193231-58a59202ab31 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190910122728-9d188e94fb99 // indirect
