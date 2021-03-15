@@ -12,7 +12,7 @@ require (
 	github.com/go-chi/chi v1.5.1
 	github.com/go-redis/redis/v8 v8.4.0
 	github.com/go-sql-driver/mysql v1.4.1
-	github.com/lib/pq v1.2.0
+	github.com/lib/pq v1.10.0
 	github.com/pelletier/go-toml v1.8.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/siddontang/go v0.0.0-20180604090527-bdc77568d726 // indirect

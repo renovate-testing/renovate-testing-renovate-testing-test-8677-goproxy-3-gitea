@@ -10,7 +10,7 @@ require (
 	github.com/go-redis/redis v6.15.2+incompatible
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/golang/snappy v0.0.2 // indirect
-	github.com/lib/pq v1.2.0
+	github.com/lib/pq v1.10.0
 	github.com/lunny/log v0.0.0-20160921050905-7887c61bf0de // indirect
 	github.com/lunny/nodb v0.0.0-20160621015157-fc1ef06ad4af
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
