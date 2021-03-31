@@ -37,7 +37,7 @@ require (
 	github.com/glycerine/go-unsnap-stream v0.0.0-20210130063903-47dfef350d96 // indirect
 	github.com/go-asn1-ber/asn1-ber v1.5.3 // indirect
 	github.com/go-chi/chi v1.5.4
-	github.com/go-chi/cors v1.1.1
+	github.com/go-chi/cors v1.2.0
 	github.com/go-enry/go-enry/v2 v2.6.1
 	github.com/go-git/go-billy/v5 v5.0.0
 	github.com/go-git/go-git/v5 v5.2.0
