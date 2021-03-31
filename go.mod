@@ -124,7 +124,7 @@ require (
 	github.com/unrolled/render v1.0.3
 	github.com/urfave/cli v1.22.5
 	github.com/willf/bitset v1.1.11 // indirect
-	github.com/xanzy/go-gitlab v0.44.0
+	github.com/xanzy/go-gitlab v0.48.0
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
 	github.com/yohcop/openid-go v1.0.0
 	github.com/yuin/goldmark v1.3.2
