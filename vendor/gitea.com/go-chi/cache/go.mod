@@ -21,7 +21,7 @@ require (
 	github.com/siddontang/go-snappy v0.0.0-20140704025258-d8f7bb82a96d // indirect
 	github.com/siddontang/ledisdb v0.0.0-20190202134119-8ceb77e66a92
 	github.com/siddontang/rdb v0.0.0-20150307021120-fc89ed2e418d // indirect
-	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
+	github.com/smartystreets/goconvey v1.6.4
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/unknwon/com v0.0.0-20190804042917-757f69c95f3e
 	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80 // indirect
