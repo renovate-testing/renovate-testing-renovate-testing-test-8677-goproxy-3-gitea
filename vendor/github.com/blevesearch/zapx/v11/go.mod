@@ -9,5 +9,6 @@ require (
 	github.com/blevesearch/scorch_segment_api/v2 v2.0.1
 	github.com/blevesearch/vellum v1.0.3
 	github.com/golang/snappy v0.0.1
-	github.com/spf13/cobra v0.0.5
+	github.com/philhofer/fwd v1.1.1 // indirect
+	github.com/spf13/cobra v0.0.7
 )
