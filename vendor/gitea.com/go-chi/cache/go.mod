@@ -27,6 +27,6 @@ require (
 	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80 // indirect
 	golang.org/x/sys v0.0.0-20190730183949-1393eb018365 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
-	gopkg.in/ini.v1 v1.44.2
+	gopkg.in/ini.v1 v1.62.0
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
