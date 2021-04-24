@@ -3,7 +3,7 @@ module github.com/markbates/goth
 go 1.15
 
 require (
-	cloud.google.com/go v0.67.0 // indirect
+	cloud.google.com/go v0.80.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gorilla/mux v1.6.2
@@ -14,8 +14,8 @@ require (
 	github.com/markbates/going v1.0.0
 	github.com/mrjones/oauth v0.0.0-20180629183705-f4e24b6d100c
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/testify v1.4.0
-	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10 // indirect
-	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
+	github.com/stretchr/testify v1.7.0
+	golang.org/x/mod v0.4.1 // indirect
+	golang.org/x/net v0.0.0-20210331060903-cb1fcc7394e5 // indirect
+	golang.org/x/oauth2 v0.0.0-20210323180902-22b0adad7558
 )
