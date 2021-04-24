@@ -4,7 +4,7 @@ go 1.11
 
 require (
 	github.com/bradfitz/gomemcache v0.0.0-20190329173943-551aad21a668
-	github.com/couchbase/go-couchbase v0.0.0-20201026062457-7b3be89bbd89
+	github.com/couchbase/go-couchbase v0.0.0-20210420172948-f4fae5e85239
 	github.com/couchbase/gomemcached v0.1.1 // indirect
 	github.com/couchbase/goutils v0.0.0-20201030094643-5e82bb967e67 // indirect
 	github.com/cupcake/rdb v0.0.0-20161107195141-43ba34106c76 // indirect
@@ -21,6 +21,7 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/unknwon/com v1.0.1
+	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/ini.v1 v1.62.0
 )
