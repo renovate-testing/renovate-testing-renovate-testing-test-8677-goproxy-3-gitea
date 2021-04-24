@@ -10,5 +10,5 @@ require (
 	github.com/gorilla/csrf v1.6.0 // indirect
 	github.com/gorilla/handlers v1.4.1 // indirect
 	github.com/gorilla/mux v1.7.3 // indirect
-	github.com/yuin/goldmark v1.1.22
+	github.com/yuin/goldmark v1.3.3
 )
